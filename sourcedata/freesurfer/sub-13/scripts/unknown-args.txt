@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/pK/FM/MD5E-s400--7c10fca531b97baa5a4250973e1377cf.txt/MD5E-s400--7c10fca531b97baa5a4250973e1377cf.txt
+/annex/objects/MD5E-s400--7c10fca531b97baa5a4250973e1377cf.txt

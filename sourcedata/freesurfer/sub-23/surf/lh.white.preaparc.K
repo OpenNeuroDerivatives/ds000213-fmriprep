@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/jp/2Q/MD5E-s544019--5a833eb572e0da54708dd9d7e077810b.K/MD5E-s544019--5a833eb572e0da54708dd9d7e077810b.K
+/annex/objects/MD5E-s544019--5a833eb572e0da54708dd9d7e077810b.K

@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/kJ/z4/MD5E-s502183--4c34c39b5f3386445dd3e119a748439d.K/MD5E-s502183--4c34c39b5f3386445dd3e119a748439d.K
+/annex/objects/MD5E-s502183--4c34c39b5f3386445dd3e119a748439d.K
