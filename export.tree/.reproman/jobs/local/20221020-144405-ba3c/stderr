@@ -1,0 +1,10 @@
+Warning: Permanently added 'c101-052' (ED25519) to the list of known hosts.
+WARNING (10/20/22 18:10:25): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4945183.hostlist.2heBSuku to get hosts
+starting job on c101-052
+starting job on c152-073
+starting job on c152-074
+starting job on c154-092
+starting job on c154-093
+starting job on c155-052
+starting job on c155-053
